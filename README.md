@@ -3,6 +3,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Macrohard0001/lx-ikun-music-sources?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Macrohard0001/lx-ikun-music-sources?style=social)
 
+## 不要光fork不star啊，~~please一键三连~~谢谢了！
+
 ## 关于捐赠
  - 本项目为纯公益，但是如果你觉得好用，可以进行捐赠（Buy me a coffee? Or else...）
  - 捐赠请点[这里](https://macrohard0001.github.io/donate.html)跳转详细信息（请放心，自己的GitHub静态页面，并不包含广告）
